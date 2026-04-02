@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./careerpilot/tsconfig.json" },
+    { "path": "./careerpilot/tsconfig.node.json" }
+  ]
+}
