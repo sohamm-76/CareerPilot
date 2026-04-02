@@ -36,6 +36,7 @@ lerna-debug.log*
 *.seed
 backend/uploads/
 backend/data/
+frontend/git_metadata_backup/
 
 # Editor / OS files
 .vscode/
